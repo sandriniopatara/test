@@ -31,7 +31,7 @@ div {
     height: 150px;
     left: 1804px;
     top: 0px;
-    font-size: 20px;
+    font-size: 15px;
     text-align: center;
   }
 
@@ -41,7 +41,7 @@ div {
     height: 300px;
     left: 902px;
     top: 300px;
-    font-size: 50px;
+    font-size: 30px;
     text-align: center;
   }
 
@@ -51,7 +51,7 @@ div {
     height: 150px;
     left: 900px;
     top: 300px;
-    font-size: 20px;
+    font-size: 15px;
     text-align: center;
   }
 
@@ -61,7 +61,7 @@ div {
     height: 100px;
     left: 0px;
     top: 0px;
-    font-size: 12px;
+    font-size: 10px;
     text-align: center;
   }
 }
